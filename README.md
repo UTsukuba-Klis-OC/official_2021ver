@@ -18,5 +18,8 @@ docker-compose up -d
 ```
 docker-compose down
 ```
-
-
+## Ref
+\[^1] https://qiita.com/trajanme/items/2565275b498973d6ca45
+\[^2] https://qiita.com/KZ-taran/items/dbeec73a94771a9bede1
+\[^3] https://rara-world.com/docker-nuxt/
+\[^4] https://niwakatech.info/docker-nuxt-vue/#toc3
