@@ -18,6 +18,9 @@ docker-compose up -d
 ```
 docker-compose down
 ```
+## Notice
+if you use nuxt/vue, you must make file ./ dir ( use `----overwrite-dir` option )
+
 ## Ref
 1. [DockerでNuxt.jsの開発環境を構築してVSCodeで触れるようにするまで](https://qiita.com/trajanme/items/2565275b498973d6ca45)
 1. [Dockerコマンドとファイルの書き方【追加更新継続中】
