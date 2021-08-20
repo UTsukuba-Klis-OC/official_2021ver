@@ -9,4 +9,4 @@ RUN apk update && \
     npm install -g create-nuxt-app@2.15.7
 
 ENV HOST 0.0.0.0
-EXPOSE 8080
+# EXPOSE 8080
